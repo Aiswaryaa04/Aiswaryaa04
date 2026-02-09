@@ -5,13 +5,6 @@
 
 > It is what it is.
 > 
-<div align="center">
-
-![Your github status](https://github-readme-stats.vercel.app/api?username=Aiswaryaa04&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehanooka&layout=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
-=======
-  </div>
 
 ## 📫 **Contact**
 
