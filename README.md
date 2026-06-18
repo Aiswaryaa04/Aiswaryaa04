@@ -4,7 +4,7 @@
 
 **Engineer building intelligent, production-grade systems**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--self--three--70.vercel.app-F59E0B?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-self-three-70.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--self--three--70.vercel.app-F59E0B?style=for-the-badge&logo=vercel&logoColor=black)](https://aiswaryaa.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aiswaryaavelumani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aiswaryaavelumani)
 [![Email](https://img.shields.io/badge/Email-aiswaryaavelumani20%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aiswaryaavelumani20@gmail.com)
 
