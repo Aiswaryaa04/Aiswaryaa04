@@ -1,39 +1,79 @@
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&color=000000&width=435&lines=Hello!+My+name+is+Aiswaryaa+Velumani;Welcome+to+my+Github+Page)](https://git.io/typing-svg)
-<br />
-##### MOTTO
+# Aiswaryaa Velumani
 
-> It is what it is.
-> 
+**Engineer building intelligent, production-grade systems**
 
-## 📫 **Contact**
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--self--three--70.vercel.app-F59E0B?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-self-three-70.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aiswaryaavelumani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aiswaryaavelumani)
+[![Email](https://img.shields.io/badge/Email-aiswaryaavelumani20%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aiswaryaavelumani20@gmail.com)
 
-- 📧 [Email](mailto:aiswaryaavelumani20@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/aiswaryaavelumani/)
-- 🌍 [Portfolio]()
-  
-## 💻 **Key Technologies**
+</div>
 
-### 🧑‍💻 Programming Languages
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+## About Me
 
-### 🎨  Frontend Development
+MS Computer Science graduate from UIC (GPA 3.78) based in Richmond, Virginia. I build things that are both intelligent and reliable — RAG pipelines, agentic systems, and LLM evaluation on one side; distributed backends, real-time infrastructure, and scalable APIs on the other. Most engineers pick one. I work best when I get to do both.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+Open to full-time roles in AI Engineering and Full-Stack SWE.
 
-### 🔨  Backend Development
+---
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) 
+## Projects
 
-### 🔧 Databases
+### Retention — AI Spaced Repetition Engine
+Turns PDFs, YouTube transcripts, and plain text into adaptive flashcards grounded in your exact material. RAG pipeline with 768-dim embeddings in Supabase pgvector, SM-2 spaced repetition from scratch, and Claude API evaluating conceptual understanding beyond string matching.
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white) 
+`React` `FastAPI` `pgvector` `Claude API` `Gemini Embeddings` `Supabase` `Docker`
 
-### 🔒️ DevOps
+### AgentOps — AI Agent Observability Platform
+Zero-config wrapper for LangGraph, CrewAI, or custom agents. Captures 100% of execution events, provides a React Flow execution graph with step-by-step replay, and uses LLM-as-judge via Claude API to catch prompt regressions across versions.
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=black) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+`React Flow` `FastAPI` `PostgreSQL` `LangGraph` `CrewAI` `Claude API`
 
-### 📝 Version Control System
+### ResearchOS — Scientific Consensus Intelligence
+Instead of returning a list of papers, tells you what the research actually agrees on, where it conflicts, and why. Indexes 500+ papers across Semantic Scholar, PubMed, and arXiv with a Neo4j knowledge graph for citation and contradiction relationships.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=black) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+`pgvector` `Neo4j Aura` `Claude API` `Semantic Scholar` `PubMed` `arXiv`
+
+### TaskFlow — Distributed Job Queue and Worker Dashboard
+Distributed job processing system built from scratch handling 1,000+ jobs per minute with zero message loss, exponential backoff retry, dead letter queue, and a real-time React monitoring dashboard via WebSockets.
+
+`FastAPI` `Redis` `PostgreSQL` `React` `WebSockets` `Docker Compose`
+
+### LiveBoard — Real-Time Collaborative Whiteboard
+Multiplayer whiteboard supporting 50+ concurrent users with sub-100ms latency. CRDT-based conflict resolution guarantees eventual consistency during simultaneous edits.
+
+`FastAPI` `WebSockets` `Redis pub/sub` `CRDT` `React` `Canvas API`
+
+### AuthVault — Production Auth and Authorization SDK
+Complete auth platform with JWT rotation, OAuth 2.0, RBAC, and MFA via TOTP. Packaged as a reusable SDK — any FastAPI app integrates in 3 lines of code.
+
+`FastAPI` `JWT` `OAuth 2.0` `Redis` `TOTP` `React`
+
+---
+
+## Technical Skills
+
+**AI and Machine Learning**
+RAG Pipelines · Vector Search · LLM APIs (Claude, Gemini, OpenAI) · LangChain · LangGraph · Agentic Workflows · Multi-Agent Systems · Prompt Engineering · LLM-as-Judge · Evaluation Design · Fine-tuning LoRA/PEFT · PyTorch · TensorFlow · HuggingFace · pgvector · MLOps
+
+**Full-Stack and Infrastructure**
+React · FastAPI · Flask · Node.js · REST APIs · WebSockets · Async Python · PostgreSQL · Redis · Neo4j · MongoDB · Docker · AWS S3/EC2 · Vercel · Supabase · Distributed Systems · System Design · CRDT · CI/CD
+
+---
+
+## Education
+
+**MS Computer Science** — University of Illinois at Chicago · GPA 3.78 · Graduated May 2026
+
+**BTech Information Technology** — Meenakshi Sundararajan Engineering College, Anna University · Graduated Apr 2023
+
+---
+
+<div align="center">
+
+**Richmond, Virginia · Open to relocation**
+
+</div>
